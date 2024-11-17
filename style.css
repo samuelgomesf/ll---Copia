@@ -48,6 +48,7 @@ footer{
     text-align: center;
     border-radius: 5px ;
 box-shadow: 2px 2px 2px rgb(48, 48, 48);
+    
 }
 .button-57 {
   position: relative;
@@ -126,4 +127,7 @@ box-shadow: 2px 2px 2px rgb(48, 48, 48);
 li{
   text-align: justify;
   font-family: arial, Verdana, Helvetica, Sans-serif;
+}
+#sim{
+  font-size: 15px;
 }
